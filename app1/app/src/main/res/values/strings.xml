@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="no_data">No data</string>
+    <string name="open_app">Open App 2</string>
+</resources>
